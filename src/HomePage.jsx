@@ -1,8 +1,19 @@
 
 import { useState } from "react";
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
+const Button = ({ onClick, children }) => (
+  <button
+    onClick={onClick}
+    className="bg-cyan-600 hover:bg-cyan-500 text-white font-semibold py-2 px-4 rounded"
+  >
+    {children}
+  </button>
+);
 
+const Card = ({ children }) => (
+  <div className="bg-[#1c2331] p-4 rounded-lg shadow">{children}</div>
+);
+
+const CardContent = ({ children }) => <div>{children}</div>;
 export default function HomePage() {
   const [showProjects, setShowProjects] = useState(true);
 
