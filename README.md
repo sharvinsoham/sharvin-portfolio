@@ -1,3 +1,5 @@
+# Sharvin Soham - Portfolio
+
 - 👋 Hi, I’m [@sharvinsoham](https://github.com/sharvinsoham) & my expertise are in domains of Machine Learning and System Adminstrations.
 - 👀 I’m interested in working in fields of Research & Development.
 - 🌱 I’m currently learning DevOps.
@@ -5,13 +7,6 @@
 - 📫 Reach me [@sharvinsoham](https://leetcode.com/sharvinsoham/)
 - ⚡ Fun fact: My leadership style is forward thinking and relationship oriented. My favorite book is Sapiens & I'm an ambassador of Environmental Sustainability.
 
-<!---
-sharvinsoham/sharvinsoham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-# Sharvin Soham - Portfolio
 
 My personal developer portfolio is built using React + TailwindCSS with a theme inspired by quantum physics, space exploration, and modern AI.
 
@@ -45,3 +40,8 @@ npm run dev
 
 ---
 Feel free to fork, modify, and showcase your own projects!
+
+<!---
+sharvinsoham/sharvin-portfolio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
